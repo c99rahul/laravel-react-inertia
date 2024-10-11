@@ -6,7 +6,7 @@ export default function Footer() {
             <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col justify-center">
                 <p className="text-sm text-gray-500 sm:py-2 sm:mt-0 mt-4">
                     <Link
-                        href="https://twitter.com/knyttneve"
+                        href="https://twitter.com/c99rahul"
                         className="text-gray-600 ml-1"
                         rel="noopener noreferrer"
                         target="_blank"
