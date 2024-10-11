@@ -9,7 +9,7 @@ Follow these steps to set up the project:
 1. Clone the repository:
 
     ```
-    git clone https://github.com/c99rahul/laravel-react-inertia/
+    git clone https://github.com/c99rahul/laravel-react-inertia.git
     ```
 
 2. Navigate to the project directory:
